@@ -1,2 +1,2 @@
-# laravel-snippets
-Basis code snippets for laravel
+# laravel-tools
+Basis code snippets/files for laravel
